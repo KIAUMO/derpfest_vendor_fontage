@@ -1381,4 +1381,27 @@
     </family>
     <alias name="ubuntu-mono-medium" to="ubuntu-mono" weight="500" />
     
+    <!-- Ubuntu -->
+    <family customizationType="new-named-family" name="ubuntu">
+      <font weight="100" style="normal">Ubuntu-R.ttf
+        <axis tag="wght" stylevalue="100" />
+      </font>
+      <font weight="300" style="normal">Ubuntu-R.ttf
+        <axis tag="wght" stylevalue="250" />
+      </font>
+      <font weight="400" style="normal">Ubuntu-R.ttf
+        <axis tag="wght" stylevalue="400" />
+      </font>
+      <font weight="500" style="normal">Ubuntu-R.ttf
+        <axis tag="wght" stylevalue="550" />
+      </font>
+      <font weight="700" style="normal">Ubuntu-R.ttf
+        <axis tag="wght" stylevalue="750" />
+      </font>
+      <font weight="900" style="normal">Ubuntu-R.ttf
+        <axis tag="wght" stylevalue="900" />
+      </font>
+    </family>
+    <alias name="ubuntu-medium" to="ubuntu" weight="500" />
+    
 </fonts-modification>
